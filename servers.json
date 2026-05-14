@@ -1,0 +1,31 @@
+[
+    {
+        "server_id": "S101",
+        "name": "ProdServer1",
+        "total_cpu": 100,
+        "used_cpu": 92,
+        "uptime": 88,
+        "response_time": 12,
+        "authorized": false
+    },
+
+    {
+        "server_id": "S102",
+        "name": "ProdServer2",
+        "total_cpu": 100,
+        "used_cpu": 45,
+        "uptime": 98,
+        "response_time": 5,
+        "authorized": true
+    },
+
+    {
+        "server_id": "S103",
+        "name": "ProdServer3",
+        "total_cpu": 100,
+        "used_cpu": 67,
+        "uptime": 99,
+        "response_time": 7,
+        "authorized": true
+    }
+]
