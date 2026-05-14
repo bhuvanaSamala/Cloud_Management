@@ -1,0 +1,5 @@
+[
+    "[2026-05-14 19:35:29.478132] ALERT: Server downtime detected: ProdServer1",
+    "[2026-05-14 19:35:29.478132] ALERT: High CPU usage detected in ProdServer1",
+    "[2026-05-14 19:35:29.478132] ALERT: Unauthorized access detected in ProdServer1"
+]

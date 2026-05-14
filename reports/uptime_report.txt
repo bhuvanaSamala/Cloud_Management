@@ -1,0 +1,5 @@
+===== SERVER UPTIME REPORT =====
+
+ProdServer1 -> 88% uptime
+ProdServer2 -> 98% uptime
+ProdServer3 -> 99% uptime

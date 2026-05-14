@@ -1,0 +1,5 @@
+===== RESOURCE UTILIZATION =====
+
+ProdServer1 -> CPU Usage: 92.0%
+ProdServer2 -> CPU Usage: 45.0%
+ProdServer3 -> CPU Usage: 67.0%

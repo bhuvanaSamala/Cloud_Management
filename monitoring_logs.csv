@@ -1,0 +1,4 @@
+timestamp,server_id,cpu_usage,memory_usage,status
+2026-05-14 10:00,S101,92,88,DOWN
+2026-05-14 10:05,S102,45,55,UP
+2026-05-14 10:10,S103,67,60,UP
